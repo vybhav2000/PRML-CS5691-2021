@@ -16,7 +16,7 @@
 <h2>Assignment3</h2>
 <a href="Assignment3">Assignment 3</a>
 <h2>Data Contest</h2>
-<a href="Data Contest">Data Contest</a>
+<a href="Data Contest">Data Contest</a><br>
 The Contest page can be accessed from here <a href="https://www.kaggle.com/c/prml-data-contest-jan-2021/overview">Link</a>. The Data Description is as shown below<br>
   
 >Build recommendation models for a Music Platform and try to predict what ratings customers will assign to songs. You can use all the extra information provided, such as customers's  >previous rating scores, his/her list of songs saved for listening in future, labels assigned to songs etc.
