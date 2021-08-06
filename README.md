@@ -23,5 +23,5 @@ The Contest page can be accessed from here <a href="https://www.kaggle.com/c/prm
 > 
 >Dataset contains ~1.3million ratings, split into about 700k training and 600k test ratings. There are about 14k distinct customers and 10k distinct songs. This dataset is derived from  >a real world scenario; so take care of sanitizing/handling real data.   
 <br>
-<img src="Data Contest/prml rank.png" height=600 width=400>
+<img src="Data Contest/prml rank.PNG" height=600 width=400>
   
