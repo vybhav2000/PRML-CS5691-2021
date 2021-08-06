@@ -3,13 +3,13 @@
 <a href="Assignment1">Assignment 1</a>
 <h3>Results</h3>
 <h4>Decision Boundaries<h4>
-<img src="Assignment1/Classifier.png"> 
+<img src="Assignment1/Classifier.png" height=300 width=300> 
   
 <h2>Assignment2</h2>
 <a href="Assignment2">Assignment 2</a>
 <h3>Results</h3>
-<h4>Cluesters<h4>
-<img src="Assignment1/c.png">  
+<h4>Clusters<h4>
+<img src="Assignment2/c.png">  
  
 <h2>Assignment2</h2>
 <a href="Assignment3">Assignment 3</a>
